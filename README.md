@@ -21,9 +21,4 @@
   ##
   
 <img src="https://i.picasion.com/pic92/23e8ec1832353b1270320f2d1ff6ac44.gif" width="300" height="300" border="5" alt="https://picasion.com/"></a><br/><a href="https://picasion.com/">
-
-  
  
-  
-  
-  
