@@ -1,8 +1,9 @@
 ### Oi, eu sou a Ana Cristina Azevedo
 
 - 🔭 Atualmente não trabalho na área.
-- 🌱 Estou estudando front-end, sei um pouco de C#
-- ✔️ Quero aprender back-end
+- 🌱 Estou estudando front-end.
+- 🔷 Sei o básico de C++ e PHP.
+- 🔶 Quero aprender back-end.
 
 ## 
 
