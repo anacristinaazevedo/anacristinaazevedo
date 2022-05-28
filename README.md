@@ -1,7 +1,7 @@
 ### Oi, eu sou a Ana Cristina Azevedo
 
 - 🔭 Atualmente não trabalho na área.
-- 🌱 Estou estudando front-end, sei um pouco do C#
+- 🌱 Estou estudando front-end, sei um pouco de C#
 - ✔️ Quero aprender back-end
 
 ## 
