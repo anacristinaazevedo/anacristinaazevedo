@@ -2,7 +2,7 @@
 
  ✔️  Atualmente eu não trabalho na área.<P>
  ✔️  Estou estudando HTML, CSS, JavaScript, Python e Java<P>
- ✔️  Aprendi o básico de C++ e PHP.<P>
+ ✔️  Aprendi o básico de C++ e PHP, que em breve pretendo retomar os estudos<P>
  ✔️  Tenho planos de futuramente aprender mais sobre cibersegurança, vulnerabilidades de sites e criação de aplicativos, estilo AmazonGo, sabe?<P>
 
 ##
