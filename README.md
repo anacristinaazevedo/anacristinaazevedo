@@ -28,7 +28,6 @@
   ##
   <div>
   <a href="https://www.instagram.com/kittyazevedoyt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-cristina-azevedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  <img src="https://i.picasion.com/pic92/23e8ec1832353b1270320f2d1ff6ac44.gif" align="left" width="200" height="200" border="5" alt="https://picasion.com/"></a><br/><a href="https://picasion.com/">
  
