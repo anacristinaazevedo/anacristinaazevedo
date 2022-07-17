@@ -32,4 +32,6 @@
  
  <img src="https://i.picasion.com/pic92/23e8ec1832353b1270320f2d1ff6ac44.gif" align="left" width="200" height="200" border="5" alt="https://picasion.com/"></a><br/><a href="https://picasion.com/">
  
+ ![Snake animation](https://github.com/anacristinaazevedo/anacristinaazevedo/blob/output/github-contribution-grid-snake.svg)
+ 
  </div>
