@@ -1,6 +1,8 @@
 ### Oi, tudo bem? Sou a Ana, seja bem-vindo(a) ao meu perfil!!
 
- ✔️  Atualmente eu não trabalho na área.<P>
+ ✔️ Sou uma pessoa autodidata, tive meu primeiro contato com área de T.I. em 2016, o que não durou muito tempo. Recentemente voltei a estudar e me dedicar completamente a uma área que no passado me encantou. <P>
+ ✔️ Acredito que nada venha ou seja fácil, consigo facilmente estudar e fazer várias coisas ao mesmo tempo.<P>
+ ✔️  Não trabalho na área.<P>
  ✔️  Estou estudando HTML, CSS, JavaScript, Python e Java<P>
  ✔️  Aprendi o básico de C++ e PHP, que em breve pretendo retomar os estudos<P>
  ✔️  Tenho planos de futuramente aprender mais sobre cibersegurança, vulnerabilidades de sites e criação de aplicativos, estilo AmazonGo, sabe?<P>
