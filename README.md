@@ -2,7 +2,7 @@
 
  ✔ Sou uma pessoa autodidata, tive meu primeiro contato com área de T.I. em 2016, o que não durou muito tempo, recentemente voltei a estudar e me dedicar completamente a uma área que no passado me encantou; <P>
  ✔ Ainda não trabalho na área, pois quero aprimorar mais meus conhecimentos;<P>
- ✔ Atualmente estou estudando Python e Banco de Dados, tenho planos de futuramente aprender mais sobre Java<P>
+ ✔ Atualmente estou estudando Python (desenvolvimento web e utilização com Flask, Django e SQLAlchemy), Banco de Dados, Machine Learning<P>
 
   <div align="center">
   <a href="https://github.com/anacristinaazevedo">
@@ -19,6 +19,7 @@
    <img align="center" alt="Ana-PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
    <img align="center" alt="Ana-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
    <img align="center" alt="Ana-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+   <img align="center" alt="Ana-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
    
   </div>
   
