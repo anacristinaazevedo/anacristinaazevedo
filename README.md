@@ -2,8 +2,7 @@
 
  ✔ Sou uma pessoa autodidata, tive meu primeiro contato com área de T.I. em 2016, o que não durou muito tempo, recentemente voltei a estudar e me dedicar completamente a uma área que no passado me encantou; <P>
  ✔ Ainda não trabalho na área, pois quero aprimorar mais meus conhecimentos;<P>
- ✔ Atualmente estou estudando Python (desenvolvimento web e utilização com Flask, Django e SQLAlchemy), Banco de Dados, Machine Learning<P>
-
+ 
   <div align="center">
   <a href="https://github.com/anacristinaazevedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacristinaazevedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
