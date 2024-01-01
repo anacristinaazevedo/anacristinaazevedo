@@ -29,5 +29,6 @@
  
 </div>
 
+
 ![snake gif](https://github.com/anacristinaazevedo/anacristinaazevedo/blob/output/github-contribution-grid-snake.svg)
 
